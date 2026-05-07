@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+mediapipe
+deepface
+tensorflow
+python-multipart
